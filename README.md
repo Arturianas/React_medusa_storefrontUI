@@ -1,3 +1,78 @@
+React Medusa Storefront UI
+Medusa Hackathon 2022
+
+![myfile](https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+
+About
+Participants
+Arturas - @Arturianas
+
+Description
+An open source ecommerce mobile application built using Medusa and React Native Expo. It includes products screen, cart, checkout and payment.
+
+Preview
+Demo
+
+Set up Project
+Prerequisites
+Before you start with the tutorial make sure you have
+
+Node.js v14 or greater installed on your machine
+Expo CLI
+Medusa server v14 or greater installed on your machine
+Stripe account
+Stripe plugin is required on the Medusa server
+Install Project
+Clone the repository:
+git clone https://github.com/suhailkakar/react-native-medusajs
+Change directory and install dependencies:
+cd react-native-medusajs
+npm install
+Start the app
+expo start
+Resources
+Medusa’s GitHub repository
+Medusa Admin Panel
+Medusa Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
