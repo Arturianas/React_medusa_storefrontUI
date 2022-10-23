@@ -1,7 +1,9 @@
 React Medusa Storefront UI
 Medusa Hackathon 2022
 
-![myfile](https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+
+
+![myfile](https://pupsico-medusa.fra1.digitaloceanspaces.com/react_medusa.png)
 
 About
 Participants
