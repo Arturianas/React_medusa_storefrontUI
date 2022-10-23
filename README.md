@@ -10,15 +10,15 @@ https://user-images.githubusercontent.com/86117302/197417623-64674313-d957-48c0-
 
 
 
-About
-Participants
+About:
+Participants -
 Arturas - @Arturianas
 
-Description
+Description: 
 An open source ecommerce responsive application built using Medusa and React . It includes React storefront UI with ready to use Redux. It fetches products from medusa server in the Home page as well as all products in Store page. Everything else is for developers to implement their own logic.
 
 Preview
-Demo
+
 
 Set up Project
 Prerequisites
