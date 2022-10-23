@@ -4,6 +4,10 @@ Medusa Hackathon 2022
 <img width="1600" alt="react_medusa" src="https://user-images.githubusercontent.com/86117302/197417303-3f2ec3d9-af25-416f-985c-3da614b23401.png">
 
 
+https://user-images.githubusercontent.com/86117302/197417623-64674313-d957-48c0-8b55-6a2329e684dc.mp4
+
+
+
 ![myfile](https://pupsico-medusa.fra1.digitaloceanspaces.com/react_medusa.png)
 
 About
